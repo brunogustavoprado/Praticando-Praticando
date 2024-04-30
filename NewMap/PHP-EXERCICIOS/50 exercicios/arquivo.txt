@@ -1,0 +1,8 @@
+Nome: Bruno |Idade: 19 |Sexo: Masculino
+,Nome: Paulo |Idade: 19 |Sexo: Masculino
+,Nome: Beatriz |Idade: 13 |Sexo: Feminino
+,Nome: Marcos |Idade: 11 |Sexo: Masculino
+,Nome: Joaquim |Idade: 29 |Sexo: Masculino
+,Nome: Isabala |Idade: 15 |Sexo: Feminino
+,Nome: Lucas |Idade: 18 |Sexo: Masculino
+,Nome: Miguel |Idade: 18 |Sexo: Masculino
