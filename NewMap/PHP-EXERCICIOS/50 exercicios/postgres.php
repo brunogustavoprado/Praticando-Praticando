@@ -11,18 +11,18 @@ if (!$conn) {
     echo "Erro ao conectar ao banco de dados.";
     exit;
 } else {
-   // echo "Conexão bem-sucedida!";
+    echo "Conexão bem-sucedida!\n";
 }
 
-$query = "SELECT * FROM main";
-$result = pg_query($conn, $query);
-if (!$result) {
-    echo "Erro na consulta.";
-    exit;
-}
-
-while ($row = pg_fetch_assoc($result)) {
-    echo "Nome: " . $row['users'] . "<br>";
-    echo "Email: " . $row['passwords'] . "<br>";
-    echo "Email: " . $row['token'] . "<br>";
-}
+//$query = "SELECT * FROM main";
+//$result = pg_query($conn, $query);
+//if (!$result) {
+//    echo "Erro na consulta.";
+//    exit;
+//}
+//
+//while ($row = pg_fetch_assoc($result)) {
+//    echo "Nome: " . $row['users'] . "<br>";
+//    echo "Email: " . $row['passwords'] . "<br>";
+//    echo "Email: " . $row['token'] . "<br>";
+//}
