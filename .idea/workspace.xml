@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="746a3afd-f2b4-4f65-a7e4-27d9bdb8e39e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewMap/PHP-EXERCICIOS/50 exercicios/postgres.php" beforeDir="false" afterPath="$PROJECT_DIR$/NewMap/PHP-EXERCICIOS/50 exercicios/postgres.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
     "PHP Script.PG_alterar_dados.php.executor": "Run",
     "PHP Script.bur.php.executor": "Run",
     "PHP Script.deletePostgres.php.executor": "Run",
+    "PHP Script.responde-auto.php.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714483655657</updated>
-      <workItem from="1714483656582" duration="12956000" />
+      <workItem from="1714483656582" duration="14169000" />
     </task>
     <servers />
   </component>
